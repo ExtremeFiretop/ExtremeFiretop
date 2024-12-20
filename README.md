@@ -4,16 +4,16 @@
 <h3 align="center">A passionate Technical Advisor (IT-03 Level) from Ottawa, Canada 🇨🇦</h3>
 
 💫 About Me:
-<br>I work at the Government of Canada as a permanent FTE Technical Advisor.
-<br> My day to day is handling Citrix and VPN solutions for the department. Fluently bilingual (French, English).
-<br>I'm best known online for my creation "**MerlinAU**" 🎉! I also tend to work on Plex tools and scripts whenever I can.
+<br>I work at the Government of Canada as a permanent FTE Technical Advisor.<br/>
+<br> My day to day is handling Citrix and VPN solutions for the department. Fluently bilingual (French, English).<br/>
+<br>I'm best known online for my creation "**MerlinAU**" 🎉! I also tend to work on Plex tools and scripts whenever I can.<br/>
 
-<br>🔭 I’m currently working on: **MerlinAU**
-<br>💬 Ask me about: **Anything!**
-<br>🌟 Checkout my projects and leave a **STAR**
-<br>🔗 Following me, is **FREE**...
+<br>🔭 I’m currently working on: **MerlinAU**<br/>
+<br>💬 Ask me about: **Anything!**<br/>
+<br>🌟 Checkout my projects and leave a **STAR**<br/>
+<br>🔗 Following me, is **FREE**...<br/>
 <br>⚡ Fun fact: I am part of the "Zillennial" Micro-generation born in **96**. 
-https://en.wikipedia.org/wiki/Zillennials
+https://en.wikipedia.org/wiki/Zillennials<br/>
 
 ---
 
@@ -43,7 +43,7 @@ If you think I deserve a little support, feel free to show it!
 # 📊 GitHub Stats:
 <h3>My GitHub contributions summary</h3>
 
-![ExtremeFiretop GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ExtremeFiretop&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)<br/>
+![ExtremeFiretop GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ExtremeFiretop&theme=dark&hide_border=false)
 <a href="https://github.com/ExtremeFiretop/github-readme-stats">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=ExtremeFiretop&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
 </a>
