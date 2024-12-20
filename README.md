@@ -43,7 +43,7 @@ If you think I deserve a little support, feel free to show it!
 # 📊 GitHub Stats:
 <h3>My GitHub contributions summary</h3>
 
-![ExtremeFiretop GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ExtremeFiretop&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)
+![ExtremeFiretop GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ExtremeFiretop&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)<br/>
 <a href="https://github.com/ExtremeFiretop/github-readme-stats">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=ExtremeFiretop&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
 </a>
