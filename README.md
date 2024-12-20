@@ -6,7 +6,7 @@
 💫 About Me:
 <br>I work at the Government of Canada as a permanent FTE Technical Advisor.
 <br> My day to day is handling Citrix and VPN solutions for the department. Fluently bilingual (French, English).
-<br>I'm best known for my creation "**MerlinAU**" 🎉! I also tend to work on Plex tools and scripts whenever I can.
+<br>I'm best known online for my creation "**MerlinAU**" 🎉! I also tend to work on Plex tools and scripts whenever I can.
 
 <br>🔭 I’m currently working on: **MerlinAU**
 <br>💬 Ask me about: **Anything!**
