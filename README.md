@@ -1,67 +1,58 @@
-# 📂 AMTM-OSR (Orphaned Scripts Revival)
+<img class="cropimg" src="https://raw.githubusercontent.com/Extremefiretop/Extremefiretop/main/Dock.jpg" alt="ExtremeFiretop's car banner" style="width: 100%;" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AMTM-OSR/AMTM-OSR/main/assets/banner.png" alt="AMTM-OSR Banner" width="100%">
-</p>
+<h1 align="center">Hi 👋, I'm Joel Samson (ExtremeFiretop)</h1>
+<h3 align="center">A passionate Technical Advisor (IT-03 Level) from Ottawa, Canada 🇨🇦</h3>
 
-<h1 align="center">Welcome to AMTM-OSR!</h1>
-<p align="center">
-  🔄 Maintaining and Reviving Abandoned ASUSWRT-Merlin Scripts<br>
-  🛠️ Community-Driven Updates & Maintenance<br>
-  🤝 Open to All Contributors
-</p>
+💫 About Me:
+<br>I work at the Government of Canada as a permanent FTE Technical Advisor.<br/>
+<br> My day to day is handling Citrix and VPN solutions for the department. Fluently bilingual (French, English).<br/>
+<br>I'm best known online for my creation "**MerlinAU**" 🎉! I also tend to work on Plex tools and scripts whenever I can.<br/>
 
----
-
-## 💡 What is AMTM-OSR?
-AMTM-OSR (Abandoned Scripts Revival) is a GitHub Organization dedicated to rescuing, maintaining, and improving scripts originally developed for ASUSWRT-Merlin (AMTM) routers that have fallen out of active maintenance. We provide a central home for these orphaned tools, ensuring they remain secure, compatible, and up-to-date.
-
-## 📜 Our Mission
-- **Revival:** Identify and fork legacy AMTM scripts that are no longer maintained.
-- **Maintenance:** Apply bug fixes, security patches, and compatibility updates.
-- **Collaboration:** Foster an open community where developers can contribute enhancements, documentation, and testing.
-
-## 🚀 Getting Started
-1. **Browse Repositories**  
-   Explore our [Repositories](https://github.com/AMTM-OSR) to see which scripts are currently hosted under our stewardship.
-2. **Check Issues**  
-   Visit the **Issues** tab on any repo to find open bugs, feature requests, or discussion threads.
-3. **Contribute**  
-   - Fork the target repository.
-   - Create a feature branch (`git checkout -b feature/your-feature`).
-   - Commit your changes (`git commit -m 'Add some feature'`).
-   - Push to the branch (`git push origin feature/your-feature`).
-   - Open a Pull Request detailing your updates.
-
-## 🔧 Script Update Workflow
-1. **Fork or Transfer**  
-   Legacy script owner forks or gives admin access to AMTM-OSR.
-2. **One Last Pull**  
-   A final pull from the old repo ensures seamless transition of update URLs.
-3. **Update Check**  
-   AMTM scripts are configured to check against the new AMTM-OSR repo for future updates.
-4. **Continuous Maintenance**  
-   Community members monitor, patch, and release new versions under semantic versioning.
-
-## 📢 Communication Channels
-- **Discussions & Issues:** Use GitHub Issues for bug reports and feature proposals.
-- **Pull Requests:** Submit code, docs, or test enhancements via PRs.
-- **Community Forum:** Join our SNBForums thread: [AMTM-OSR on SNBForums](https://www.snbforums.com/forums/amtm-osr)
-
-## 🤝 Meet the Founders
-- **ExtremeFiretop** (Joel Samson) — Creator of MerlinAU, Technical Advisor at Government of Canada. 
-- **decoderman** (thelonelycoder) — Original AMTM contributor and co-founder.
-
-## 🌟 Why Contribute?
-- Gain open-source experience and showcase your contributions.
-- Help users keep their Asus-Merlin routers running smoothly.
-- Collaborate with seasoned developers in the home networking community.
+<br>🔭 I’m currently working on: **MerlinAU**<br/>
+<br>💬 Ask me about: **Anything!**<br/>
+<br>🌟 Checkout my projects and leave a **STAR**<br/>
+<br>🔗 Following me, is **FREE**...<br/>
+<br>⚡ Fun fact: I am part of the "Zillennial" Micro-generation born in **96**. 
+https://en.wikipedia.org/wiki/Zillennials<br/>
 
 ---
 
-### 📌 License
-All repositories under AMTM-OSR are licensed under the [MIT License](https://opensource.org/licenses/MIT).
+![](https://komarev.com/ghpvc/?username=ExtremeFiretop&color=fb4362)
 
----
+If you think I deserve a little support, feel free to show it!
 
-<p align="center">Built with ❤️ by the AMTM-OSR Community</p>
+<a href="https://www.paypal.com/paypalme/ExtremeFiretop" target="_blank">
+  <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" alt="Show support!" width="150">
+</a>
+
+# 🌐 Socials:
+<a href="https://www.linkedin.com/in/joelmarcsamson/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.snbforums.com/members/extremefiretop.71152/" target="_blank"><img alt="SNBForums" src="https://www.snbforums.com/styles/default/images/snbforums_logo_new_100px.png" width="150" style="background-color: #1a73e8; padding: 10px; border-radius: 5px;"/></a>
+
+# 💻 Technical Stack:
+<h3>Scripting & Shells:</h3>
+<p> <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white" /> <img alt="Batch" src="https://img.shields.io/badge/Batch-4D4D4D.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white" /> </p>
+<h3>Version Control & CI/CD:</h3>
+<p> <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white" /> </p>
+<h3>IDEs & Editors:</h3>
+<p> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white" /> <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-A31515.svg?&style=for-the-badge&logo=notepad%2B%2B&logoColor=white" /> <img alt="PowerShell Studio" src="https://img.shields.io/badge/PowerShell%20Studio-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white" /> </p>
+<h3>Backend & Servers:</h3>
+<p> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img alt="NGINX" src="https://img.shields.io/badge/nginx-269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" /> <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+<h3>Containerization & Virtualization:</h3>
+<p> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" /> <img alt="VMware" src="https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=vmware&logoColor=white" /> <img alt="Hyper-V" src="https://img.shields.io/badge/Hyper--V-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> </p>
+
+# 📊 GitHub Stats:
+<h3>My GitHub contributions summary</h3>
+
+![ExtremeFiretop GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ExtremeFiretop&theme=dark&hide_border=false)
+<a href="https://github.com/ExtremeFiretop/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=ExtremeFiretop&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
+</a>
+<a href="https://github.com/ExtremeFiretop/ExtremeFiretop">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtremeFiretop&layout=donut-vertical&exclude_repo=asuswrt-merlin.ng-nightly&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
+</a>
+<a align="center" style="width: 100%;">
+    <img height=250 align="center" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="ExtremeFiretop" />
+</a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ExtremeFiretop&theme=radical&no-frame=false&no-bg=true&margin-w=4)
